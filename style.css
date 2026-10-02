@@ -14,8 +14,8 @@ body {
 
 /* Cabeçalho e Navegação */
 header {
-  background-color: #1a1a1a;
-  color: #fff;
+  background-color: #380dc4;
+  color: #0dad88;
   padding: 1rem 2rem;
   display: flex;
   justify-content: space-between;
